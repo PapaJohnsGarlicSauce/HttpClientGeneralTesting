@@ -1,0 +1,5 @@
+*.suo
+BasicConfiguringHttpClientExample/ConfiguringHttpClientExample/bin/
+BasicConfiguringHttpClientExample/ConfiguringHttpClientExample/obj
+BasicConfiguringHttpClientExample/.vs/
+BasicConfiguringHttpClientExample/ConfiguringHttpClientExample/appsettings.Development.json
